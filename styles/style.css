@@ -35,19 +35,6 @@ h1 {
     font-size: 32px;
 }
 
-h2 {
-    margin-top: 24px;
-    margin-bottom: 8px;
-    font-size: 16px;
-}
-
-p.username {
-    font-family: "Roboto Mono", monospace;
-    opacity: 0.8;
-    font-size: 18px;
-    font-weight: 400;
-}
-
 ul {
     /* Tira os pontinhos da lista */
     list-style: none;
@@ -67,12 +54,12 @@ ul li a {
     color: rgb(0, 0, 0);
 
     text-transform: uppercase;
-    font-size: 14px;
+    font-size: 18px;
 
     margin-bottom: 16px;
-    border-radius: 6px;
+    border-radius: 10px;
 
-    transition: background 400ms;
+    transition: background 500ms;
 }
 
 ul li a:hover {
