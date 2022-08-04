@@ -16,5 +16,11 @@ html {
     --bg-color-normal: #334F18;
     --text-color-normal: #ffffff;
 
+    --bg-color-links-normal: #ffffff;
+    --text-color-links-normal: #000000;
+
     --bg-color-hover-links: #000000;
+    --text-color-hover-links: #ffffff;
+
+    --color-hr: #ffffff;
 }
