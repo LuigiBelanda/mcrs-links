@@ -23,10 +23,10 @@ img.avatar {
     width: 100px;
     height: 100px;
 
-    border: #ffffff solid 4px;
+    border: #ffffff solid 5px;
 
     /* espaço da imagem até o circulo em volta*/
-    padding: 3.7px;
+    padding: 1px;
 }
 
 h1 {
@@ -63,7 +63,7 @@ ul li a {
     align-items: center;
     justify-content: center;
 
-    width: 350px;
+    width: 100%;
     height: 50px;
 
     background-color: var(--bg-color-links-normal);
